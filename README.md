@@ -22,7 +22,7 @@ payments, and stay maintained for years. I write the backends they talk to.
 
 - **OutSpot** — one Flutter codebase shipped to iOS, Android, Web, macOS and Windows. Express + Prisma over PostgreSQL.
 - **Jarvis** — AI assistant live on both stores since 2023. Streaming chat, RevenueCat subscriptions, 19 languages.
-- **Code Horizon** — AI platform with multi-model routing, a credit ledger and usage metering.
+- **Code Horizon** — describe an app, get generated code on a live preview URL. Idea → MVP → architecture → code, publishable to GitHub, metered by a complexity-priced credit engine.
 - **RFID Pallet** — Zebra RFID handheld app, bridged against the raw byte-level protocol because no Flutter driver existed.
 
 Case studies with screenshots → **[ayan-parvaiz.web.app/work](https://ayan-parvaiz.web.app/work)**
