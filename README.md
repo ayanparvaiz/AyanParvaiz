@@ -4,7 +4,7 @@
 
 I build production Flutter applications — the kind that go through App Store review, take real payments, and stay maintained for years. Mostly mobile, but I ship the web and desktop targets too, and I write the backends they talk to.
 
-[Portfolio](https://ayan-parvaiz.web.app) · [LinkedIn](www.linkedin.com/in/ayan-parvaiz )· [Freelancer](https://www.freelancer.com.bd/u/ayanp22) · ayanparvez30@gmail.com
+[Portfolio](https://ayan-parvaiz.web.app) · [LinkedIn](https://www.linkedin.com/in/ayanparvaiz) · [Fiverr](https://www.fiverr.com/ayanparvez30) · [Freelancer](https://www.freelancer.com/u/ayanp22) · ayanparvez30@gmail.com
 
 ---
 
