@@ -1,7 +1,8 @@
 <h1 align="center">Ayan Parvaiz</h1>
 
 <p align="center">
-  Flutter Developer &amp; AI Engineer · Bangladesh · Remote
+ Full-Stack AI Engineer | Flutter, Next.js, Node.js, Python
+ · Bangladesh · Remote
 </p>
 
 <p align="center">
